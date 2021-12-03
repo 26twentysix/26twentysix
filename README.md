@@ -1,5 +1,7 @@
 ![Banner](asserts/touka.gif)
+
 ###About
+
 ``` 
 Name: Sergey Kutas
 Age: 20
