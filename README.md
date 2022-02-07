@@ -4,7 +4,7 @@
 
 ``` 
 Name: Sergey Kutas
-Age: 20
+Age: 21
 Country: Russia
 City: Ekaterinburg
 Languages: Python, Java
