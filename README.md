@@ -1,13 +1,13 @@
-![Banner](asserts/touka.gif)
+![Banner](asserts/muryokusho.webp)
 
 # About
 
 ``` 
 Name: Sergey Kutas
-Age: 21
+Age: 22
 Country: Russia
 City: Ekaterinburg
-Languages: Python, Java
+Languages: Java, some Python
 OS: win10/manjaro linux
 Contacts: 
     vk - vk.com/26lilangel
